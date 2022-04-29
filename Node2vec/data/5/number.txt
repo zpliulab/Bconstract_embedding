@@ -1,0 +1,1 @@
+RNA:1704,Protein:42,interaction：22133
